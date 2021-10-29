@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I used to build startups @ bebo -> got aquired by [Twitch](https://twitch.tv).
+Previously: twitch.tv, bebo.com, blab.im
 
-Now I build web-things @ Twitch and advise companies @ [f.inc](https://f.inc)
+Now: Building [something new](https://thirdweb.com).
